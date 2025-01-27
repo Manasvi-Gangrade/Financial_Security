@@ -10,3 +10,5 @@ Real-Time Fraud Detection and Prevention AI-Driven Financial Security System
 --> Model Training : Python 
 --> NLP , Deepfake models trained for audio , video and text spam detection . 
 --> Used several libraries like scikit learn , isolation forest , tensorflow , numpy , pandas , etc 
+
+PS : Kindly do not judge on GitHub and Linkedin Profile , Tons of projects havent been pushed yet :(

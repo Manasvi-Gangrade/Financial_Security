@@ -12,3 +12,6 @@ Real-Time Fraud Detection and Prevention AI-Driven Financial Security System
 --> Used several libraries like scikit learn , isolation forest , tensorflow , numpy , pandas , etc 
 
 PS : Kindly do not judge on GitHub and Linkedin Profile , Tons of projects havent been pushed yet :(
+
+Document : https://drive.google.com/file/d/1rx9tBNpQ--N-Qn3pesA23YjrLFhjSGHh/view?usp=drive_link
+Presentation : https://drive.google.com/file/d/1qHMPu-f2mn24LIDmA11wR5KDBhylzE3m/view?usp=sharing
